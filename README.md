@@ -1,4 +1,4 @@
-# Finance Anomaly Detector
+# FinSight-Finance Anomaly Detector
 
 ## Overview
 
